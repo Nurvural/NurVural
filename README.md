@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurvural&label=Profile%20views&color=0e75b6&style=flat" alt="nurvural" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_nurvural" target="blank"><img src="https://img.shields.io/twitter/follow/_nurvural?logo=twitter&style=for-the-badge" alt="_nurvural" /></a> </p>
 
 - 🌱 I’m currently learning **docker, kafka and microservice**
 
