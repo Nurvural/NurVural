@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurvural&label=Profile%20views&color=0e75b6&style=flat" alt="nurvural" /> </p>
 
 
-- 🌱 I’m currently learning react.js**
+- 🌱 I’m currently learning react.js
 
 - 📝 I regularly write articles on [https://medium.com/@nurrvural](https://medium.com/@nurrvural)
 
