@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning react.js
 
-- 📝 I regularly write articles on [https://medium.com/@nurrvural](https://medium.com/@nurrvural)
+- 📝 I regularly write articles on [https://medium.com/@nurrvural](https://medium.com/@nurvural)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
