@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning react.js
+🌱 I’m currently learning C#
 
 
 ## 🌐 Socials:
