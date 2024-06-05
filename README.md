@@ -1,5 +1,4 @@
 # 💫 About Me:
-🌱 I’m currently learning C#
 
 ⚡I produce content on Medium. Please follow along!
 
