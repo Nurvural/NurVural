@@ -69,26 +69,5 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 </p>
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurvural&theme=jolly&hide_border=false&count_private=false" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurvural&theme=jolly&hide_border=false" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurvural&theme=jolly&hide_border=false&layout=compact" height="160px"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nurvural&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
 ---
 
