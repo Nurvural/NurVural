@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurvural</h1>
-<h3 align="center">Software Developer | Microservices Enthusiast | Content Creator on Medium</h3>
+<h3 align="center">Software Developer | Content Creator on Medium</h3>
 
 ---
 
